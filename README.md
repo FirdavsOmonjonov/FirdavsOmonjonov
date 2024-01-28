@@ -1,7 +1,3 @@
-##👋 Hi, I’m @FirdavsOmonjonov
+## Hi I'm FirdavsOmonjonov
 
-
-<!---
-FirdavsOmonjonov/FirdavsOmonjonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirdavsOmonjonov)](https://github.com/anuraghazra/github-readme-stats)
