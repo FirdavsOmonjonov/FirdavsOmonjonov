@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Firdavs Omonjonov</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=28px>, I'm Firdavs Omonjonov</h1>
 <h3 align="center">A passionate Python backend developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firdavsomonjonov&label=Profile%20views&color=f74002&style=flat" alt="firdavsomonjonov" /> </p>
