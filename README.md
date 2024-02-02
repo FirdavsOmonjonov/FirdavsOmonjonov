@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/firdavsbek-omonjonov-590b15276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firdavsbek-omonjonov-590b15276/" height="30" width="40" /></a>
 <a href="https://fb.com/100089530487249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100089530487249" height="30" width="40" /></a>
 <a href="https://instagram.com/firdavs.omonjonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firdavs.omonjonov" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@firdavs.omonjonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Firdavs.omonjonov" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@Firdavs.omonjonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Firdavs.omonjonov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
