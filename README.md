@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Django Python 🐍 Backend**
 
 - 📫 How to reach me **firdavsbekomonjonov46@gmail.com**
+- My LeetCode profile **https://leetcode.com/u/Firdavsomonjonov**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
